@@ -8,5 +8,6 @@ const Result = ({ score, playAgain }) => (
     </button>
   </div>
 );
-
+ 
 export default Result;
+ 
